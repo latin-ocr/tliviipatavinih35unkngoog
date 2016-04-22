@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih35unkngoog/tliviipatavinih35unkngoog_0009.png"; bbox 0 0 3300 5234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 734 1921 2282 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 734 1921 2282 2052">
+     <span class='ocr_line' id='line_1_1' title="bbox 734 1921 2282 2052; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 734 1943 854 2048; x_wconf 91' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 914 1943 1375 2050; x_wconf 90' lang='lat' dir='ltr'><strong>·LIVII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1486 1921 2282 2052; x_wconf 87' lang='lat' dir='ltr'><strong>PATAVINI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1036 2270 1978 2391">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1036 2270 1978 2391">
+     <span class='ocr_line' id='line_1_2' title="bbox 1036 2270 1978 2391; baseline 0 -35"><span class='ocrx_word' id='word_1_4' title='bbox 1036 2270 1978 2391; x_wconf 59' lang='lat' dir='ltr'><strong>HISTORIARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 859 2571 2156 2645">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 859 2571 2156 2645">
+     <span class='ocr_line' id='line_1_3' title="bbox 859 2571 2156 2645; baseline 0.002 -12"><span class='ocrx_word' id='word_1_5' title='bbox 859 2573 1155 2638; x_wconf 86' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1227 2575 1417 2645; x_wconf 80' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1489 2571 2156 2639; x_wconf 80' lang='lat' dir='ltr'><strong>SUPERSUNT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1287 3021 1862 3091">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1287 3021 1862 3091">
+     <span class='ocr_line' id='line_1_4' title="bbox 1287 3021 1862 3091; baseline -0.014 0"><span class='ocrx_word' id='word_1_8' title='bbox 1287 3022 1507 3091; x_wconf 85' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1565 3021 1712 3090; x_wconf 86' lang='lat' dir='ltr'><strong>XI.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1855 3051 1862 3060; x_wconf 92' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 524 4470 1562 4546">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 524 4470 1562 4546">
+     <span class='ocr_line' id='line_1_5' title="bbox 524 4470 1562 4546; baseline -0.015 -13"><span class='ocrx_word' id='word_1_11' title='bbox 524 4479 705 4546; x_wconf 63' lang='lat' dir='ltr'><strong><em>Delph.</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 726 4482 775 4528; x_wconf 74' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 812 4471 930 4525; x_wconf 73' lang='lat' dir='ltr'><strong>Var-</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 956 4471 1087 4522; x_wconf 72' lang='lat' dir='ltr'><strong>ehu.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1378 4470 1562 4522; x_wconf 66' lang='lat' dir='ltr'><strong>Livius.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
